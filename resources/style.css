@@ -32,3 +32,8 @@
  .navbar-toggler {
     border-color: #ffbf69;
   } 
+
+  .img-fluid {
+    max-width: 100px;
+    width:100%;
+  }
