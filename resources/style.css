@@ -73,3 +73,9 @@
   width: 60%;
   height: 60%;
 }
+
+.snip {
+  background-color: #faf9f9;
+  padding: 15px;
+  border-radius: 15px 15px 15px 15px;
+}
