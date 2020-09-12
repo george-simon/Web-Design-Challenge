@@ -28,4 +28,4 @@ During this challenge I decide to take on the below extra challenges.
 * Added extra visualizations.
 
 ### Deployed Dashboard/Website
-[Project One - Website]()
+[Project One - Website](https://george-simon.github.io/Web-Design-Challenge/)
