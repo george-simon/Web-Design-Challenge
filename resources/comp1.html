@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Linear Regression</title>
+    <title>T-Tests</title>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/fontawesome.min.css">
@@ -47,15 +47,37 @@
     </nav>
     <div class="container-fluid">
       <div class="row">
-          <div class="col-md-8 offset-md-2 col-sm-10 offset-sm-1 col-12">
-              <h3>
-                Over the time periods 2011, 2014, and 2018, is there a relationship between average household income of a state and the median income of each race looked at?
-              </h3>
-              <p>
-                Yes, there is a relationship. Using a linear regression model we were able to determine the relationship based on what happened to the median income as the average household income increased. The model showed the amount each race can expect their median income to improve for every dollar that the average household income increased. Below are the graphs of the most recent data in 2018.                  
-              </p>
-              <img alt="linear regression plot" src="images/2018_Asian.png">
-          </div>
+        <div class="col-sm-6 offset-sm-2 col-md-3">
+            <h3>
+            T-test 2014 to 2018 Comparison
+            </h3>
+            <div class="plot">
+                <a href="#">
+                    <img alt="avg income plot" src="images/t_asian_14_18.png">
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-6 offset-sm-2 col-md-3">
+            <div class="plot">
+                <a href="#">
+                    <img alt="population change plot" src="images/t_black_14_18.png">
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-6 offset-sm-2 col-md-3">
+            <div class="plot">
+                <a href="#">
+                    <img alt="t-test plot" src="images/t_white_14_18.png">
+                </a>
+            </div>
+        </div>
+        <div class="col-sm-6 offset-sm-2 col-md-3">
+            <div class="plot">
+                <a href="#">
+                    <img alt="linear regression plot" src="images/t_hisp_14_18.png">
+                </a>
+            </div>
+        </div>
       </div>
     </div>
     
