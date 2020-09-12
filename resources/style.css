@@ -35,7 +35,6 @@
 
 .box {
   column-rule: 4px double
-  padding: 15px;
   border-radius: 15px 15px 15px 15px;
   background-color: #faf9f9;
 }
@@ -84,6 +83,10 @@
   color: #ffbf69;
 }
 
-.p-3 > h4 {
+#subheader {
+  color: #ffbf69;
+}
+
+#header {
   color: #ffbf69;
 }
