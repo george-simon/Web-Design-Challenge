@@ -79,7 +79,7 @@
   border-radius: 15px 15px 15px 15px;
 }
 
-.col-md-12, .col-md-8 > h3 {
+.col-md-12, .col-md-8, .col-md-3> h3 {
   color: #ffbf69;
 }
 
@@ -89,4 +89,10 @@
 
 #header {
   color: #ffbf69;
+}
+
+.plot {
+  min-height: 50px;
+  padding: 5px;
+  margin: 5px;
 }
