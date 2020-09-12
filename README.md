@@ -24,4 +24,4 @@ The website must consist of 7 pages total, including:
 During this challenge I decide to take on the below extra challenges.
 * Choose a my own dataset than the starter data provided. This added an extra layer of design and development.
 * Try to style the dashboard with some *flavorful attitude*.
-* TAdded extra visualizations.
+* Added extra visualizations.
