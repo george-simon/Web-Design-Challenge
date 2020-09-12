@@ -18,10 +18,14 @@ The website must consist of 7 pages total, including:
 * A "Data" page that:
     * Displays a responsive table containing the data used in the visualizations.
         * The table must be a bootstrap table component.
-        * The data must come from exporting the .csv file as HTML, or converting it to HTML. 
+        * The data must come from exporting the .csv file as HTML, or converting it to HTML.
+* Website/dashboard deployed to GitHub pages.
 
 ### Bonus Challenges
 During this challenge I decide to take on the below extra challenges.
 * Choose a my own dataset than the starter data provided. This added an extra layer of design and development.
 * Try to style the dashboard with some *flavorful attitude*.
 * Added extra visualizations.
+
+### Deployed Dashboard/Website
+[Project One - Website](https://george-simon.github.io/Web-Design-Challenge/)
